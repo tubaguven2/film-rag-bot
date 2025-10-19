@@ -81,10 +81,10 @@ Bu proje, Türkçe film öneri sistemlerinde RAG tabanlı doğal dil anlayışı
 ##  Örnek Ekran Görüntüleri
 
 ### 1️ Chatbot Arayüzü
-![Chatbot Arayüzü](Ekran görüntüsü 2025-10-19 224811.png)
+![Chatbot Arayüzü](Ekran%20görüntüsü%202025-10-19%20224811.png)
 
 ### 2️ Chatbot Arayüzü
-![Chatbot Arayüzü](Ekran görüntüsü 2025-10-19 224742.png)
+![Chatbot Arayüzü](Ekran%20görüntüsü%202025-10-19%20224742.png)
 
 ### 3 GitHub Repo Görünümü
-![GitHub Repo](Ekran görüntüsü 2025-10-19 225607.png)
+![GitHub Repo](Ekran%20görüntüsü%202025-10-19%20225607.png)
