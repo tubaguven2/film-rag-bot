@@ -85,3 +85,6 @@ Bu proje, Türkçe film öneri sistemlerinde RAG tabanlı doğal dil anlayışı
 
 ### 2️ Chatbot Arayüzü
 ![Chatbot Arayüzü](Ekran görüntüsü 2025-10-19 224742.png)
+
+### 3 GitHub Repo Görünümü
+![GitHub Repo](Ekran görüntüsü 2025-10-19 225607.png)
