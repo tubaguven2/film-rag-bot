@@ -73,3 +73,15 @@ Bot yanıtlarında film posteri, puan ve kısa özet görüntülenir.
 
 SONUÇ
 Bu proje, Türkçe film öneri sistemlerinde RAG tabanlı doğal dil anlayışının pratik bir örneğini sunmaktadır. Gerçek zamanlı veri çekme, akıllı filtreleme ve kullanıcı dostu arayüzüyle, eğlenceli bir etkileşim sunmayı hedeflemektedir.
+
+
+
+---
+
+##  Örnek Ekran Görüntüleri
+
+### 1️ Chatbot Arayüzü
+![Chatbot Arayüzü](Ekran görüntüsü 2025-10-19 224811.png)
+
+### 2️ Chatbot Arayüzü
+![Chatbot Arayüzü](Ekran görüntüsü 2025-10-19 224742.png)
