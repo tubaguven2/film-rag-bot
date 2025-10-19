@@ -64,7 +64,9 @@ Bot yanıtlarında film posteri, puan ve kısa özet görüntülenir.
  ---
 
  requirements.txt
+ 
  gradio
+ 
  requests
 
 ---
