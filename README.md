@@ -52,10 +52,13 @@ Bot yanıtlarında film posteri, puan ve kısa özet görüntülenir.
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install gradio requests
+
 2.TMDB API anahtarınızı ekleyin:
  export TMDB_API_KEY="YOUR_API_KEY"
+
 3.Uygulamayı başlatın:
  python app.py
+
  4.Tarayıcıdan http://localhost:7860 adresine giderek botu test edin.
 
  ---
